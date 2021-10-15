@@ -6,7 +6,7 @@
 int main(void)
 {
     int a = 0, b = 1;
-
+    puts("For Windows"); 
     puts("--------------------------------"); 
     puts("|1.| Library with array.    |");   
     puts("|2.| Library with matrix.    |");    
